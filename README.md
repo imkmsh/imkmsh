@@ -1,5 +1,4 @@
-### Hi there 
-![header](https://![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20👋%20I'm%20MINSEO🤪&fontSize=90)
+![header](https://![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20👋%20I'm%20MINSEO🤪&fontSize=50)
 
 <!--
 **imkmsh/imkmsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
