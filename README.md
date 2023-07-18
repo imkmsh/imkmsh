@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello👋%20I'm%20MINSEO🤪&fontSize=60)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkmsh&count_private=true&show_icons=true&theme=default)
+# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkmsh&count_private=true&show_icons=true&theme=default)
 
 
 <!--
